@@ -22,7 +22,7 @@ Focused on high-performance powertrain engineering, power electronics, Model-Bas
 Model-Based Design and closed-loop control simulation of an 86 kW PMSM traction drive. Implements inner-loop PI current tracking, inverter switching modeling, and SVPWM modulation for a 380V DC-link bus.
 - **Stack:** MATLAB, Simulink, Control System Toolbox.
 
-#### [F1 Longitudinal Dynamics & Telemetry Analytics Suite](https://github.com/pradojrr/f1-telemetry-dynamics-suite)
+#### [F1 Longitudinal Dynamics & Telemetry Analytics Suite]([https://github.com/pradojrr/f1-telemetry-dynamics-suite](https://github.com/pradojrr/f1-vehicle-dynamics-ers-sim)
 Vehicle dynamics analytics platform combining real FIA telemetry with a numerical ODE solver for longitudinal acceleration, aerodynamic drag, rolling resistance, and hybrid ERS State of Charge (SoC).
 - **Stack:** Python, FastF1, SciPy, Pandas, Streamlit, Plotly.
 
